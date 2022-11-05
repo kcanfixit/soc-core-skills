@@ -1,5 +1,5 @@
 # soc-core-skills
-This repository features items created and collected while completing and researching the Antisyphon Training Pay-What-You-Can Course course: **SOC Core Skills with John Strand of Black Hills Information Security**
+This repository features items created and collected while completing and researching Antisyphon Training's Pay-What-You-Can Course course: **SOC Core Skills with John Strand of Black Hills Information Security**
 
 * Learn More from John Strand: https://youtu.be/Zvo4xdm5Sw0
 * Check it Out on Antisyphon Training: https://www.antisyphontraining.com/soc-core-skills-w-john-strand
