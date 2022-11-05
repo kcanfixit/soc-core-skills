@@ -4,7 +4,9 @@ This repository features items created and collected from completing the below P
 ## SOC Core Skills with John Strand, Owner of Black Hills Information Security
 
 Learn More about this course from the legend himself, John Strand: https://youtu.be/Zvo4xdm5Sw0
+
 Check out the course on Antisyphon Training and reserve your seat at the next live online class: https://www.antisyphontraining.com/soc-core-skills-w-john-strand
+
 View Live Class Schedule: https://www.antisyphontraining.com/soc-core-skills-w-john-strand/#live-schedule
 
 Description:
