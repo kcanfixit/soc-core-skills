@@ -1,9 +1,9 @@
 # soc-core-skills
 This repository features items created and collected while completing and researching the Antisyphon Training Pay-What-You-Can Course course: **SOC Core Skills with John Strand of Black Hills Information Security**
 
-* Learn More about this course from John Strand: https://youtu.be/Zvo4xdm5Sw0
-* Check out the course on Antisyphon Training: https://www.antisyphontraining.com/soc-core-skills-w-john-strand
-* View Live Class Schedule: https://www.antisyphontraining.com/soc-core-skills-w-john-strand/#live-schedule
+* Learn More from John Strand: https://youtu.be/Zvo4xdm5Sw0
+* Check it Out on Antisyphon Training: https://www.antisyphontraining.com/soc-core-skills-w-john-strand
+* View the Live Class Schedule: https://www.antisyphontraining.com/soc-core-skills-w-john-strand/#live-schedule
 * Found a great git with links from this course John provided back in a 2020 version from Wild West Hackin' Fest (WWHF): https://github.com/mildlytested/Wild-West---SOC-Core-Skills---Notes
 
 **Description:**
