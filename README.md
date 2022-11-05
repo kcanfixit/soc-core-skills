@@ -3,7 +3,7 @@
 ![SOC-core-skills](https://user-images.githubusercontent.com/82969809/200142425-f462684c-e45e-4a33-a999-f3b6ec867e5d.png)
 
 ## What's This? 
-This repository contains information created and collected while completing and researching Antisyphon Training's Pay-What-You-Can Course course: **SOC Core Skills with John Strand of Black Hills Information Security**
+This repository contains information created and collected while completing and researching Antisyphon Training's Pay-What-You-Can Course: **SOC Core Skills w/ John Strand of Black Hills Information Security**
 
 ## **Course Description:**
 SOC Core Skills w/ John Strand is a 16-hour, interactive, livestreaming information security training course that covers the core security skills all Security Operation Center (SOC) analysts should have, and all BHIS SOC team members need to have as a part of their training. The live stream class is held via Zoom with Discord for resources, help, and communication with the instructor, staff, and attendees. Live training is recorded and available for six months after training.
