@@ -1,4 +1,4 @@
-#soc-core-skills
+## #soc-core-skills ##
 This repository features items created and collected from completing the below Pay-What-You-Can Course course from Antisyphon Training:
 
 SOC Core Skills with John Strand, Owner of Black Hills Information Security
