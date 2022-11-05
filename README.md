@@ -5,7 +5,7 @@
 This repository contains information created and collected while completing and researching Antisyphon Training's Pay-What-You-Can Course course: **SOC Core Skills with John Strand of Black Hills Information Security**
 
 ## **Course Description:**
-SOC Core Skills is a 16-hour, interactive, livestreaming information security training course that covers the core security skills all Security Operation Center (SOC) analysts should have, and all BHIS SOC team members need to have as a part of their training.
+SOC Core Skills w/John Strand is a 16-hour, interactive, livestreaming information security training course that covers the core security skills all Security Operation Center (SOC) analysts should have, and all BHIS SOC team members need to have as a part of their training.
 
 ## **Things To Do:**
 * Hear From the Instructor, John Strand: https://youtu.be/Zvo4xdm5Sw0
