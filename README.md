@@ -1,7 +1,5 @@
 # soc-core-skills
 
-![This is an image] (https://www.antisyphontraining.com/wp-content/uploads/2021/08/SOC-Core-skills-feature.png)
-
 This repository features items created and collected while completing and researching Antisyphon Training's Pay-What-You-Can Course course: **SOC Core Skills with John Strand of Black Hills Information Security**
 
 * Hear More From John Strand: https://youtu.be/Zvo4xdm5Sw0
@@ -11,3 +9,4 @@ This repository features items created and collected while completing and resear
 
 **Description:**
 SOC Core Skills is a 16-hour, interactive, livestreaming information security training course that covers the core security skills all Security Operation Center (SOC) analysts should have, and all BHIS SOC team members need to have as a part of their training.
+![SOC-core-skills](https://user-images.githubusercontent.com/82969809/200142425-f462684c-e45e-4a33-a999-f3b6ec867e5d.png)
