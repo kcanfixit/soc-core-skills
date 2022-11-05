@@ -13,4 +13,4 @@ Things To Do:
 * View the Live Training Schedule: https://www.antisyphontraining.com/soc-core-skills-w-john-strand/#live-schedule
 * Cool GitHub with *tons* of resource links an attendee collected during the 2020 Wild West Hackin' Fest (WWHF) version of this course: https://github.com/mildlytested/Wild-West---SOC-Core-Skills---Notes
 
-###### Check out my repository for more, working on building out the labs from this course now! 
+## Check out my repository for more, working on building out the labs from this course now! 
