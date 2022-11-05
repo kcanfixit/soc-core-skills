@@ -5,4 +5,4 @@ Learn More: https://www.antisyphontraining.com/soc-core-skills-w-john-strand
 
 View Live Class Schedule: https://www.antisyphontraining.com/soc-core-skills-w-john-strand/#live-schedule
 
-Description from Antisyphon Training's website: This 16-hour information security training course will cover the core security skills all Security Operation Center (SOC) analysts need to have. These are the skills that all Black Hills Information Security (BHIS) SOC team members need to have.
+SOC Core Skills is a 16-hour, interactive, livestreaming information security training course that covers the core security skills all Security Operation Center (SOC) analysts should have, and all BHIS SOC team members need to have as a part of their training.
