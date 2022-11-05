@@ -2,6 +2,7 @@
 
 ![SOC-core-skills](https://user-images.githubusercontent.com/82969809/200142425-f462684c-e45e-4a33-a999-f3b6ec867e5d.png)
 
+## What's This? 
 This repository contains information created and collected while completing and researching Antisyphon Training's Pay-What-You-Can Course course: **SOC Core Skills with John Strand of Black Hills Information Security**
 
 ## **Course Description:**
