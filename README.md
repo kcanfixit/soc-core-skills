@@ -12,7 +12,7 @@ SOC Core Skills w/ John Strand is a 16-hour, interactive, livestreaming informat
 * Hear From the Instructor, *John Strand*: https://youtu.be/Zvo4xdm5Sw0
 * Learn More @ Antisyphon Training: https://www.antisyphontraining.com/soc-core-skills-w-john-strand
 * View the Live Training Schedule: https://www.antisyphontraining.com/soc-core-skills-w-john-strand/#live-schedule
-* Cool GitHub with *tons* of resource links an attendee collected during the 2020 Wild West Hackin' Fest (WWHF) version of this course: https://github.com/mildlytested/Wild-West---SOC-Core-Skills---Notes
+* Cool GitHub with *tons* of resource links attendee @mildlytested collected during the 2020 Wild West Hackin' Fest (WWHF) version of this course: https://github.com/mildlytested/Wild-West---SOC-Core-Skills---Notes
 
 
 **Check out my repository for more; working to build out labs from this course now!**
